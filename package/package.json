@@ -42,7 +42,7 @@
     "@floating-ui/react-native": "^0.10.6",
     "react-fast-compare": "^3.2.2",
     "react-native-responsive-dimensions": "^3.1.1",
-    "styled-components": "^6.1.11"
+    "styled-components": "6.0.8"
   },
   "devDependencies": {
     "@assertive-ts/core": "^2.1.0",
@@ -52,8 +52,8 @@
     "@types/react-test-renderer": "^18.3.0",
     "@types/sinon": "^17.0.3",
     "expect-type": "^0.19.0",
-    "react": "^18.3.1",
-    "react-is": "^18.3.1",
+    "react": "18.2.0",
+    "react-is": "18.2.0",
     "react-native": "0.74.3",
     "react-native-svg": "^15.4.0",
     "react-native-testing-mocks": "^1.4.1",
